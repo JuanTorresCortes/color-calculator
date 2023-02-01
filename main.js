@@ -22,5 +22,5 @@ if(question === "c"){
         console.log("When you deconstruct orange 🟠 you get red 🔴 and yellow 🟡")
     }else if(color === 'green'){
         console.log("When you deconstruct green 🟢 you get blue 🔵 and yellow 🟡")
-    }else{console.log("🚫Error not a valid color🚫")}
-}else{console.log("🚫Not a valid input🚫")}
+    }else{console.log("🚫 Error not a valid color 🚫")}
+}else{console.log("🚫 Not a valid input 🚫")}
